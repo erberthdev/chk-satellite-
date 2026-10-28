@@ -1,4 +1,4 @@
-mport uiautomator2 as u2
+import uiautomator2 as u2
 import time
 
 entrada_db = str(input("Chame o arquivo: "))
