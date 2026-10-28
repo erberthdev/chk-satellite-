@@ -41,4 +41,4 @@ python main.py
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) [![MvnRepository](https://badges.mvnrepository.com/badge/com.google.android.uiautomator/uiautomator/badge.svg?label=MvnRepository)](https://mvnrepository.com/artifact/com.google.android.uiautomator/uiautomator)
 
 # Contribuições
-[walker](https://github.com/erberthdev)
+[erberth](https://github.com/erberthdev)
