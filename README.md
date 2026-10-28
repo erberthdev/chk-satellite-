@@ -28,9 +28,9 @@ APP-->>PY: Retorno (sucesso/falha)
 - Depuração Wi-Fi habilitada com permissão
 
 ```bash
-git clone https://github.com/ficayzx/Checker-satellite-android-adb
+git clone https://github.com/erberthdev/chk-satellite-/
 
-cd Checker-satellite-android-adb
+cd chk-satellite
 
 python main.py
 ```
